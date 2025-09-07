@@ -1,11 +1,10 @@
 # 🎮 NIMBUS  
-
+---
 NIMBUS is a modified version of the classical **mathematical strategy game NIM**.  
 In the traditional game of NIM, two players take turns removing objects from distinct stacks, and the player who removes the last object wins.  
 
 In **NIMBUS**, we’ve introduced exciting variations and a points-based system to make the game more competitive and fun!  
 
----
 
 ## 🕹️ Game Rules  
 
@@ -13,7 +12,7 @@ In **NIMBUS**, we’ve introduced exciting variations and a points-based system 
 - **Clearing a stack** rewards the player with **1 point**.  
 - The player with the **most points** after all stacks are cleared is the **winner**.  
 
----
+
 
 ## ⚡ Game Modes  
 
@@ -24,7 +23,7 @@ NIMBUS features **4 unique game modes**:
 3. **Vs Computer (AI Mode)** – Play against the computer AI.  
 4. **Special NIMBUS** – Same as Regular NIMBUS, but each player can make **one special move** per game where they can remove **any number of objects** from a stack.  
 
----
+
 
 ## 🏗️ How It Works  
 
@@ -42,7 +41,7 @@ NIMBUS features **4 unique game modes**:
   4. Invalid moves are handled gracefully.  
   5. Game ends when all stacks are cleared.  
 
----
+
 
 ## 📜 Game Log  
 
@@ -58,7 +57,7 @@ Two functions are implemented:
 - One to **add data** to the log (appending to a text file).  
 - One to **display the Game Log** as output.  
 
----
+
 
 ## 🏆 Leaderboard  
 
@@ -70,14 +69,14 @@ The **Leaderboard** tracks the top players for each game mode.
 - Players are **ranked and displayed**.  
 - Leaderboard shows the **Top 5 Players**.  
 
----
+
 
 ## 📖 Additional Features  
 
 - **Help Section** – Explains the rules of the game.  
 - **Credits Section** – Acknowledges contributors.  
 
----
+
 
 ## 🚀 Tech Highlights  
 
@@ -86,16 +85,16 @@ The **Leaderboard** tracks the top players for each game mode.
 - Uses **maps, vectors, and sorting** for ranking players.  
 - Includes **randomization** for game setup and toss.  
 
----
 
-## 📷 Demo (Optional)  
+
+_ ## 📷 Demo (Optional)  _
 _Add screenshots or GIFs of the game here if available._  
 
----
+
 
 ## 🤝 Contributors  
 
-- Project by: **Syem, Aashnan & Moudud**  
+- Project by: **Syem, Aashnan & Moudud** 
 
 ---
 
