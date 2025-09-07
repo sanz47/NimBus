@@ -110,5 +110,3 @@ npm install
 
 # Run the development server
 npm run dev
-
-✨ *Enjoy strategizing with NIMBUS and claim your spot on the Leaderboard!* ✨  
