@@ -100,4 +100,15 @@ The **Leaderboard** tracks the top players for each game mode.
 
 ---
 
+## ▶️ Playing the Game  
+
+To get started:  
+
+```bash
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
 ✨ *Enjoy strategizing with NIMBUS and claim your spot on the Leaderboard!* ✨  
