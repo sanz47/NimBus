@@ -87,8 +87,10 @@ The **Leaderboard** tracks the top players for each game mode.
 
 
 
-_ ## 📷 Demo (Optional)  _
-_Add screenshots or GIFs of the game here if available._  
+## 📷 Demo 
+<img width="1439" height="806" alt="image" src="https://github.com/user-attachments/assets/aa907558-a96a-4efd-82e6-a8ee68162353" />
+<img width="1439" height="813" alt="image" src="https://github.com/user-attachments/assets/90a08467-44d6-4896-888a-ded832aa48be" />
+
 
 
 
