@@ -1,5 +1,5 @@
 # 🎮 NIMBUS  
----
+
 NIMBUS is a modified version of the classical **mathematical strategy game NIM**.  
 In the traditional game of NIM, two players take turns removing objects from distinct stacks, and the player who removes the last object wins.  
 
