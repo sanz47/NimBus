@@ -59,30 +59,17 @@ Two functions are implemented:
 
 
 
-## 🏆 Leaderboard  
-
-The **Leaderboard** tracks the top players for each game mode.  
-
-- Winners’ names are appended to a text file.  
-- Names are read and stored in a vector.  
-- A `map` is used to **count frequency** of wins.  
-- Players are **ranked and displayed**.  
-- Leaderboard shows the **Top 5 Players**.  
-
-
 
 ## 📖 Additional Features  
 
 - **Help Section** – Explains the rules of the game.  
-- **Credits Section** – Acknowledges contributors.  
 
 
 
 ## 🚀 Tech Highlights  
 
-- Implemented in **C++**.  
-- Uses **file handling** for Game Log & Leaderboard.  
-- Uses **maps, vectors, and sorting** for ranking players.  
+- **Initial Implementation**: Built in **C++** with file handling and randomization logic.  
+- **Current Version**: Rewritten in **TypeScript** using the **React framework** with **Vite** for fast development and modern UI.  
 - Includes **randomization** for game setup and toss.  
 
 
