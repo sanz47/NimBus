@@ -1,0 +1,5 @@
+{
+  "name": "NimBus",
+  "description": "A modern web-based implementation of the classic game of Nim and its variants. Challenge another player or test your skills against a strategic AI opponent. Features a sleek, futuristic interface and multiple game modes.",
+  "requestFramePermissions": []
+}
